@@ -87,7 +87,7 @@ exit
 
 cd /sdcard
 mkdir cLZXCLc
-cd $HOME
+cd $HOME/Spam-generate
 mv $namafile /sdcard/cLZXCLc
 echo -e $red"[*]Selamat file sudah di pindah ke memori internal anda"
 echo -e $green"[*]silahkan di cek di penyimpanan internal terus cari file cLZXCLc"
